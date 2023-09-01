@@ -67,4 +67,4 @@ jitwatch.out
 project/**/metals.sbt
 
 .bsp
-.scala_build
+.scala-build
